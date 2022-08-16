@@ -757,3 +757,20 @@ a {
 .footer .footer-social a:last-child i {
     margin: 0;
 }
+
+a {
+
+    color:#ffffff;
+    
+    text-decoration:none
+    
+    }
+    
+    a:hover {
+    
+    color:#797979;
+    
+    text-decoration: underline
+    
+    }
+    
